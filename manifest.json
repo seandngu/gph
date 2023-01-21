@@ -1,0 +1,12 @@
+{
+   "Name": "Grandpa Pissed Himself for Content Patcher",
+   "Author": "seandnguyen",
+   "Version": "1.0.2",
+   "Description": "Replaces Grandpa's dying scene with Grandpa wetting the bed",
+   "UpdateKeys": [ "Nexus:11798" ],
+   "UniqueID": "dnguwu.GrandpasPissedHimself",
+    "MinimumApiVersion": "3.0",
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

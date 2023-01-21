@@ -1,0 +1,1 @@
+Extract to Stardew Valley > Mods
